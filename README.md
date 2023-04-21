@@ -6,5 +6,6 @@ A game of coin flip and dice from codeacadamy displayinh knowledge of:
 -Command Line,
 -Control Flow ,
 -Loops,
+ and functions
 
 Enjoy and I hope you can learn a thing or two!
